@@ -2,6 +2,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/cyhysobad/cyhyhub/mai
 
 ```List-Map-Supported```
 - Build A Boat For Treasure🚢
-Infectious Smile🙂
-Blade Ball🪩
-Murderers VS Sheriffs Duels🔪
+- Infectious Smile🙂
+- Blade Ball🪩
+- Murderers VS Sheriffs Duels🔪
