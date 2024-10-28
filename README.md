@@ -5,3 +5,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/cyhysobad/cyhyhub/mai
 - Infectious Smile🙂
 - Blade Ball🪩
 - Murderers VS Sheriffs Duels🔪
+- [🤿] Fisch
